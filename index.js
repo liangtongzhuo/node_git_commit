@@ -6,7 +6,7 @@ const simpleGit = require('simple-git')
 // 定时器
 setInterval(function () {
   upDataFile()
-}, 1000 * 10);
+}, 1000 * 20);
 
 // 修改 README 文件
 (function upDataFile() {
