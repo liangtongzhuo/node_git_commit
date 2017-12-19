@@ -1,5 +1,4 @@
-# Node_git_commit
-使用 Node 操作 GitHub
+# 使用 Node 操作 GitHub
 
 # 下面由系统自动生成
 
@@ -20,3 +19,4 @@
 #### 自动 commit，时间:Tue Dec 19 2017 14:47:10 GMT+0800 (CST)
 #### 自动 commit，时间:Tue Dec 19 2017 14:48:15 GMT+0800 (CST)
 #### 自动 commit，时间:Tue Dec 19 2017 15:48:15 GMT+0800 (CST)
+#### 自动 commit，时间:Tue Dec 19 2017 16:48:15 GMT+0800 (CST)
