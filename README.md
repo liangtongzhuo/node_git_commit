@@ -3,6 +3,3 @@
 
 # 下面由系统自动生成
 
-### 上一次自动 commit，时间:Tue Dec 19 2017 13:10:07 GMT+0800 (CST)
-### 上一次自动 commit，时间:Tue Dec 19 2017 13:17:07 GMT+0800 (CST)
-### 上一次自动 commit，时间:Tue Dec 19 2017 13:17:41 GMT+0800 (CST)
