@@ -1,0 +1,27 @@
+{
+  "name": "node_git_commit",
+  "version": "1.0.0",
+  "description": "使用 Node 操作 GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangtongzhuo/node_git_commit.git"
+  },
+  "keywords": [
+    "node",
+    "github",
+    "commit"
+  ],
+  "author": "liangtongzhuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangtongzhuo/node_git_commit/issues"
+  },
+  "homepage": "https://github.com/liangtongzhuo/node_git_commit#readme",
+  "dependencies": {
+    "simple-git": "^1.85.0"
+  }
+}
