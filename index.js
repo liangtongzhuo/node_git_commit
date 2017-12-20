@@ -21,6 +21,8 @@ function upDataFile() {
 // commit 提交
 function gitCommit(time){
   simpleGit()
+       .addConfig('user.name', 'liangtongzhuo')
+       .addConfig('user.email', 'liangtongzhuo@gmail.com')
        .add('./*')
        .commit('自动 commit，时间' + time)
        .push(['-u', 'origin', 'master'], (e) => {
