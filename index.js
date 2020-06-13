@@ -26,6 +26,6 @@ function gitCommit(time){
        .add('./*')
        .commit('自动 commit，时间' + time)
        .push(['-u', 'origin', 'master'], (e) => {
-          console.log('commit 成功，时间：' + time)
+          console.log('commit 成功，时间：' + time ,e)
        })
 }
